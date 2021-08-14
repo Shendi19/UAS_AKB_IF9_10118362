@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/wisata"
+        android:title="Wisata"
+        android:icon="@drawable/homeee">
+    </item>
+    <item
+        android:id="@+id/maps"
+        android:title="Maps"
+        android:icon="@drawable/mapsss">
+    </item>
+
+    <item
+        android:id="@+id/home"
+        android:title="Note"
+        android:icon="@drawable/book">
+    </item>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile">
+    </item>
+
+</menu>
